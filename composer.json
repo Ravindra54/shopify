@@ -1,12 +1,12 @@
 {
-    "name": "milind/objects",
+    "name": "ravindra/objects",
     "description": "Shopify objects to communicate with API",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "milind",
-            "email": "milind@Milind-pc.mshome.net"
+            "name": "ravindra",
+            "email": "ravi@getflits.com"
         }
     ],
     "autoload": {
